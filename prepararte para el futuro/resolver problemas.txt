@@ -1,0 +1,5 @@
+Elegir un problema
+Buscar un factor protagonista
+Generar un mapa mental alrededor de ese factor
+Elegir 3-4 tecnologías con las que te sientas a gusto
+Escribir historias cada 3 minutos procurando que cada historia resuelva un problema
